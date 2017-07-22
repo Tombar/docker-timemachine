@@ -131,3 +131,5 @@ Because if you don't do it this way, the discovery message won't be able to reac
 * Óscar de Arriba (odarriba@gmail.com)
 * Daniel Iñigo (demil133@gmail.com)
 * Josef Friedrich ([@Josef-Friedrich](https://github.com/Josef-Friedrich))
+
+.
